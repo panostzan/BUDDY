@@ -66,6 +66,6 @@ Eventually, I want to explore simultaneous localization and mapping (SLAM), allo
 
 ---
 
-*Built out of curiosity, one experiment at a time.*
+*Check out my personal website for more about me*
 
 **[panostzan.com](https://panostzan.com)**
