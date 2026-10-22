@@ -28,11 +28,11 @@ This repository documents that process: the code, hardware, experiments, mistake
 | Component | Purpose |
 |---|---|
 | Arduino Uno R3 | Main microcontroller |
-| DC gearmotors with encoders | Locomotion and rotational feedback |
-| H-bridge motor drivers | Motor speed and direction control |
+| 12V DC gearmotors with encoders | Locomotion and rotational feedback |
+| L298N H bridge | Motor speed and direction control |
 | VL53L1X time-of-flight sensor | Obstacle detection |
-| Rechargeable battery | Onboard power |
-| Custom prototype chassis (a cutting board) | Mechanical structure |
+| Rechargeable battery (CITYORK 12V) | Onboard power |
+| Custom prototype chassis (my cutting board) | Mechanical structure |
 
 The hardware will continue to change and be upgraded as Buddy evolves.
 
